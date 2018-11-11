@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center; 
+  width: 100%
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+.video-detail .details {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+.embed-responsive {
+  width: 100%;
+
+}
+.embed-responsive-item {
+  margin: 20px;
+  width: 100%;
+  height: 700px;
+}
